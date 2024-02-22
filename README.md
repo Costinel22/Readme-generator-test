@@ -8,8 +8,6 @@ A simple way to create  README file and fill using a terminal
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
@@ -22,7 +20,7 @@ install "npm i inquirer@6.5.1 --save"
 https://github.com/Costinel22/README-generator
 
 ## Usage
-
+![alt text](./images/Untitled_%20Feb%2020,%202024%2011_09%20PM.gif)
 
 ![alt text](./images/fig1.png)
 
